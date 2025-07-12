@@ -47,7 +47,7 @@ RNA Seq:
 - GSEA v4.3.3
 - tidyverse v2.0.0
 - Glimma
-- **Bioconductor** 3.1.8:
+- ****Bioconductor** 3.1.8:**
 - DESeq2 v1.48.1
 - vsn v3.77.0
 - rtracklayer
