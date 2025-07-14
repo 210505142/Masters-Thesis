@@ -1,0 +1,65 @@
+Module	Section	Sample Name	Source
+FastQ Screen	all_sections	B4_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B4_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	WT4_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT4_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	WT3_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT3_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	G1_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G1_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	D2_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D2_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	D1_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D1_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	D3_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D3_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	B3_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B3_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	WT3_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT3_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	G3_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G3_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	B2_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B2_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	G4_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G4_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	WT4_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT4_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	WT1_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT1_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	D1_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D1_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	B4_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B4_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	G1_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G1_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	WT1_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT1_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	D4_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D4_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	D3_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D3_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	B1_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B1_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	D2_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D2_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	G2_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G2_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	B1_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B1_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	WT2_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT2_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	G4_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G4_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	B2_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B2_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	G2_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G2_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	B3_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B3_CO875-001_R2_screen.txt
+FastQ Screen	all_sections	D4_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D4_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	G3_CO875-001_R1_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G3_CO875-001_R1_screen.txt
+FastQ Screen	all_sections	WT2_CO875-001_R2_screen	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT2_CO875-001_R2_screen.txt
+FastQC	all_sections	WT4_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT4_CO875-001_R2_fastqc.zip
+FastQC	all_sections	G4_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G4_CO875-001_R2_fastqc.zip
+FastQC	all_sections	B2_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B2_CO875-001_R1_fastqc.zip
+FastQC	all_sections	D1_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D1_CO875-001_R1_fastqc.zip
+FastQC	all_sections	WT1_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT1_CO875-001_R1_fastqc.zip
+FastQC	all_sections	B3_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B3_CO875-001_R2_fastqc.zip
+FastQC	all_sections	D4_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D4_CO875-001_R1_fastqc.zip
+FastQC	all_sections	G2_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G2_CO875-001_R2_fastqc.zip
+FastQC	all_sections	B2_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B2_CO875-001_R2_fastqc.zip
+FastQC	all_sections	D1_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D1_CO875-001_R2_fastqc.zip
+FastQC	all_sections	G2_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G2_CO875-001_R1_fastqc.zip
+FastQC	all_sections	D3_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D3_CO875-001_R2_fastqc.zip
+FastQC	all_sections	G1_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G1_CO875-001_R1_fastqc.zip
+FastQC	all_sections	WT3_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT3_CO875-001_R2_fastqc.zip
+FastQC	all_sections	WT3_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT3_CO875-001_R1_fastqc.zip
+FastQC	all_sections	B4_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B4_CO875-001_R1_fastqc.zip
+FastQC	all_sections	WT1_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT1_CO875-001_R2_fastqc.zip
+FastQC	all_sections	D2_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D2_CO875-001_R1_fastqc.zip
+FastQC	all_sections	G3_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G3_CO875-001_R2_fastqc.zip
+FastQC	all_sections	B4_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B4_CO875-001_R2_fastqc.zip
+FastQC	all_sections	WT2_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT2_CO875-001_R2_fastqc.zip
+FastQC	all_sections	WT2_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT2_CO875-001_R1_fastqc.zip
+FastQC	all_sections	WT4_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/WT4_CO875-001_R1_fastqc.zip
+FastQC	all_sections	D4_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D4_CO875-001_R2_fastqc.zip
+FastQC	all_sections	D2_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D2_CO875-001_R2_fastqc.zip
+FastQC	all_sections	G3_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G3_CO875-001_R1_fastqc.zip
+FastQC	all_sections	B1_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B1_CO875-001_R1_fastqc.zip
+FastQC	all_sections	B1_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B1_CO875-001_R2_fastqc.zip
+FastQC	all_sections	D3_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/D3_CO875-001_R1_fastqc.zip
+FastQC	all_sections	G4_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G4_CO875-001_R1_fastqc.zip
+FastQC	all_sections	G1_CO875-001_R2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/G1_CO875-001_R2_fastqc.zip
+FastQC	all_sections	B3_CO875-001_R1	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_fastqc/B3_CO875-001_R1_fastqc.zip

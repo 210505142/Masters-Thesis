@@ -1,0 +1,49 @@
+Module	Section	Sample Name	Source
+Samtools	flagstat	G4_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/G4_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	WT2_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/WT2_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	G1_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/G1_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	G2_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/G2_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	B2_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/B2_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	D4_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/D4_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	B3_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/B3_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	B1_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/B1_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	D1_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/D1_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	WT1_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/WT1_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	WT3_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/WT3_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	D2_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/D2_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	D3_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/D3_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	B4_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/B4_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	G3_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/G3_CO875-001_hisat2_output.flagstat
+Samtools	flagstat	WT4_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/WT4_CO875-001_hisat2_output.flagstat
+Salmon	all_sections	B4_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/B4_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	B1_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/B1_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	D4_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/D4_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	G4_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/G4_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	D2_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/D2_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	WT4_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/WT4_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	WT1_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/WT1_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	B3_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/B3_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	D1_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/D1_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	G2_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/G2_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	G1_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/G1_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	D3_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/D3_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	B2_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/B2_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	WT3_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/WT3_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	G3_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/G3_CO875-001/libParams/flenDist.txt
+Salmon	all_sections	WT2_CO875-001	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_salmon/WT2_CO875-001/libParams/flenDist.txt
+Bowtie 2	all_sections	WT4_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/WT4_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	G3_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/G3_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	G2_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/G2_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	B2_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/B2_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	G4_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/G4_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	WT1_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/WT1_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	WT2_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/WT2_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	B3_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/B3_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	B4_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/B4_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	G1_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/G1_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	D4_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/D4_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	D1_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/D1_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	WT3_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/WT3_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	B1_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/B1_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	D3_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/D3_CO875-001_stats_hisat2.txt
+Bowtie 2	all_sections	D2_CO875-001_stats_hisat2	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_hisat2_bam/D2_CO875-001_stats_hisat2.txt

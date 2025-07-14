@@ -1,0 +1,1184 @@
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing B2_CO875-001_R1.fastq.gz
+Counting sequences in B2_CO875-001_R1.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing B2_CO875-001_R2.fastq.gz
+Counting sequences in B2_CO875-001_R2.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing B1_CO875-001_R2.fastq.gz
+Counting sequences in B1_CO875-001_R2.fastq.gz
+Making reduced sequence file with ratio 221:1
+Making reduced sequence file with ratio 221:1
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing B1_CO875-001_R1.fastq.gz
+Counting sequences in B1_CO875-001_R1.fastq.gz
+Making reduced sequence file with ratio 232:1
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Making reduced sequence file with ratio 232:1
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching B2_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching B2_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Perl module GD::Graph::bars not installed, skipping charts
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Processing complete
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching B1_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching B1_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing B3_CO875-001_R1.fastq.gz
+Counting sequences in B3_CO875-001_R1.fastq.gz
+Making reduced sequence file with ratio 213:1
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching B3_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing B3_CO875-001_R2.fastq.gz
+Counting sequences in B3_CO875-001_R2.fastq.gz
+Making reduced sequence file with ratio 213:1
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing B4_CO875-001_R2.fastq.gz
+Counting sequences in B4_CO875-001_R2.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing B4_CO875-001_R1.fastq.gz
+Counting sequences in B4_CO875-001_R1.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing D1_CO875-001_R1.fastq.gz
+Counting sequences in D1_CO875-001_R1.fastq.gz
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Making reduced sequence file with ratio 239:1
+Making reduced sequence file with ratio 239:1
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Making reduced sequence file with ratio 233:1
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching B3_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching B4_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching B4_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Perl module GD::Graph::bars not installed, skipping charts
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Processing complete
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching D1_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing D2_CO875-001_R2.fastq.gz
+Counting sequences in D2_CO875-001_R2.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing D2_CO875-001_R1.fastq.gz
+Counting sequences in D2_CO875-001_R1.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing D1_CO875-001_R2.fastq.gz
+Counting sequences in D1_CO875-001_R2.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing D3_CO875-001_R1.fastq.gz
+Counting sequences in D3_CO875-001_R1.fastq.gz
+Making reduced sequence file with ratio 222:1
+Making reduced sequence file with ratio 222:1
+Making reduced sequence file with ratio 233:1
+Making reduced sequence file with ratio 231:1
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching D2_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching D2_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching D1_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Perl module GD::Graph::bars not installed, skipping charts
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Processing complete
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching D3_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing D3_CO875-001_R2.fastq.gz
+Counting sequences in D3_CO875-001_R2.fastq.gz
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Making reduced sequence file with ratio 231:1
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing G1_CO875-001_R1.fastq.gz
+Counting sequences in G1_CO875-001_R1.fastq.gz
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing G1_CO875-001_R2.fastq.gz
+Counting sequences in G1_CO875-001_R2.fastq.gz
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching D3_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing G2_CO875-001_R1.fastq.gz
+Counting sequences in G2_CO875-001_R1.fastq.gz
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing G2_CO875-001_R2.fastq.gz
+Counting sequences in G2_CO875-001_R2.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing D4_CO875-001_R1.fastq.gz
+Counting sequences in D4_CO875-001_R1.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing D4_CO875-001_R2.fastq.gz
+Counting sequences in D4_CO875-001_R2.fastq.gz
+Making reduced sequence file with ratio 225:1
+Making reduced sequence file with ratio 225:1
+Making reduced sequence file with ratio 222:1
+Making reduced sequence file with ratio 222:1
+Making reduced sequence file with ratio 246:1
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Making reduced sequence file with ratio 246:1
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching G2_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching G2_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching G1_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching G1_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Perl module GD::Graph::bars not installed, skipping charts
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Processing complete
+Processing complete
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching D4_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching D4_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing G3_CO875-001_R1.fastq.gz
+Counting sequences in G3_CO875-001_R1.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing G3_CO875-001_R2.fastq.gz
+Counting sequences in G3_CO875-001_R2.fastq.gz
+Making reduced sequence file with ratio 219:1
+Making reduced sequence file with ratio 219:1
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing G4_CO875-001_R2.fastq.gz
+Counting sequences in G4_CO875-001_R2.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing G4_CO875-001_R1.fastq.gz
+Counting sequences in G4_CO875-001_R1.fastq.gz
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Making reduced sequence file with ratio 239:1
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Making reduced sequence file with ratio 239:1
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing WT2_CO875-001_R2.fastq.gz
+Counting sequences in WT2_CO875-001_R2.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing WT2_CO875-001_R1.fastq.gz
+Counting sequences in WT2_CO875-001_R1.fastq.gz
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching G3_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching G3_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing WT1_CO875-001_R1.fastq.gz
+Counting sequences in WT1_CO875-001_R1.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing WT1_CO875-001_R2.fastq.gz
+Counting sequences in WT1_CO875-001_R2.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing WT3_CO875-001_R2.fastq.gz
+Counting sequences in WT3_CO875-001_R2.fastq.gz
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing WT3_CO875-001_R1.fastq.gz
+Counting sequences in WT3_CO875-001_R1.fastq.gz
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching G4_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching G4_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Making reduced sequence file with ratio 219:1
+Making reduced sequence file with ratio 219:1
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Making reduced sequence file with ratio 227:1
+Making reduced sequence file with ratio 227:1
+Making reduced sequence file with ratio 228:1
+Making reduced sequence file with ratio 228:1
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching WT2_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Searching WT2_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Perl module GD::Graph::bars not installed, skipping charts
+Perl module GD::Graph::bars not installed, skipping charts
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Processing complete
+Processing complete
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching WT1_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching WT1_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching WT3_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching WT3_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing WT4_CO875-001_R1.fastq.gz
+Counting sequences in WT4_CO875-001_R1.fastq.gz
+Using fastq_screen v0.14.1
+Reading configuration from '/mnt/storage/nobackup/proj/ghwtcmr/Programs_DD/FastQ-Screen-0.14.1/fastq_screen.conf'
+Adding database Human
+Adding database Mouse
+Adding database Rat
+Adding database Drosophila
+Adding database Worm
+Adding database Yeast
+Adding database Arabidopsis
+Adding database Ecoli
+Adding database rRNA
+Adding database MT
+Adding database PhiX
+Adding database Lambda
+Adding database Vectors
+Adding database Adapters
+Using 8 threads for searches
+Option --subset set to 100000 reads
+Processing WT4_CO875-001_R2.fastq.gz
+Counting sequences in WT4_CO875-001_R2.fastq.gz
+Making reduced sequence file with ratio 234:1
+Making reduced sequence file with ratio 234:1
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Human
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Human
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Mouse
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Mouse
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Rat
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Rat
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Drosophila
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Drosophila
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Worm
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Worm
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Yeast
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Yeast
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Arabidopsis
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Ecoli
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Ecoli
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against rRNA
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against rRNA
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against MT
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against MT
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against PhiX
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against PhiX
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Lambda
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Lambda
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Vectors
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Vectors
+Searching WT4_CO875-001_R2.fastq.gz_temp_subset.fastq against Adapters
+Searching WT4_CO875-001_R1.fastq.gz_temp_subset.fastq against Adapters
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete
+Perl module GD::Graph::bars not installed, skipping charts
+Processing complete

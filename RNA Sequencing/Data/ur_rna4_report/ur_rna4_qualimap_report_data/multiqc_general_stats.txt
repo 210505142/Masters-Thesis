@@ -1,0 +1,17 @@
+Sample	QualiMap_mqc-generalstats-qualimap-5_3_bias	QualiMap_mqc-generalstats-qualimap-reads_aligned
+B1_CO875-001_hisat2_output	1.22	20362036.0
+B2_CO875-001_hisat2_output	1.34	19783142.0
+B3_CO875-001_hisat2_output	1.18	19422752.0
+B4_CO875-001_hisat2_output	1.24	21582135.0
+D1_CO875-001_hisat2_output	1.16	21145826.0
+D2_CO875-001_hisat2_output	1.2	20181576.0
+D3_CO875-001_hisat2_output	1.22	20957101.0
+D4_CO875-001_hisat2_output	1.25	22201061.0
+G1_CO875-001_hisat2_output	1.13	20434683.0
+G2_CO875-001_hisat2_output	1.28	20130162.0
+G3_CO875-001_hisat2_output	1.2	19859829.0
+G4_CO875-001_hisat2_output	1.16	21649080.0
+WT1_CO875-001_hisat2_output	1.09	20106995.0
+WT2_CO875-001_hisat2_output	1.12	19894632.0
+WT3_CO875-001_hisat2_output	1.2	20281590.0
+WT4_CO875-001_hisat2_output	1.2	20989906.0
