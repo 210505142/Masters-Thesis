@@ -65,16 +65,3 @@ Proteomics
 - tidyverse v2.0.0
 - Bioconductor 3.1.8
 
-### Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. Install dependencies for each analysis as needed.
-
-
-- Refer to the `RNA_Sequencing/README.md` and `Proteomics/README.md` for detailed instructions on running analyses in each section.
-- Sample commands and workflows are provided in each subfolder.
