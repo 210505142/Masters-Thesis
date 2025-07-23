@@ -16,7 +16,7 @@ This repository contains scripts, notebooks, and documentation for performing se
 │   ├── scripts/
 │   └── QC Results/
 ├── Proteomics/
-│  |__ scripts/
+│   |__ scripts/
 |── README.md
 ```
 
