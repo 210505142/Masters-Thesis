@@ -1,0 +1,17 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	G1_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/G1_CO875-001.summary
+featureCounts	all_sections	D3_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/D3_CO875-001.summary
+featureCounts	all_sections	WT2_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/WT2_CO875-001.summary
+featureCounts	all_sections	WT1_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/WT1_CO875-001.summary
+featureCounts	all_sections	G2_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/G2_CO875-001.summary
+featureCounts	all_sections	D2_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/D2_CO875-001.summary
+featureCounts	all_sections	D1_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/D1_CO875-001.summary
+featureCounts	all_sections	WT4_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/WT4_CO875-001.summary
+featureCounts	all_sections	B4_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/B4_CO875-001.summary
+featureCounts	all_sections	B2_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/B2_CO875-001.summary
+featureCounts	all_sections	B1_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/B1_CO875-001.summary
+featureCounts	all_sections	D4_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/D4_CO875-001.summary
+featureCounts	all_sections	WT3_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/WT3_CO875-001.summary
+featureCounts	all_sections	G4_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/G4_CO875-001.summary
+featureCounts	all_sections	G3_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/G3_CO875-001.summary
+featureCounts	all_sections	B3_CO875-001_hisat2_output	/mnt/storage/nobackup/proj/ghwtcmr/Uwe_RNAseq/results/ur_rna4_results/ur_rna4_featurecount/B3_CO875-001.summary
