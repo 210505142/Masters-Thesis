@@ -1,8 +1,8 @@
 # Masters-Thesis
 Accessibility for all the scripts used for generation of plots for both Proteomics and RNA seq
 ## Organisation
-- RNA seq file contains full pipeline of quantification of data as well as the scripts for the visualisation
-- Proteomics file contains 
+- RNA seq file contains scripts for full pipeline of quantification of data as well as the visualisation of the data
+- Proteomics file contains Scripts for the visualisation of the data
 # RNA Sequencing & Proteomics Analysis Repository
 
 Welcome to the **RNA Sequencing & Proteomics Analysis** repository!  
@@ -13,22 +13,19 @@ This repository contains scripts, notebooks, and documentation for performing se
 ```
 .
 ├── RNA_Sequencing/
-│   ├── data/
 │   ├── scripts/
-│   └── results/
+│   └── QC Results/
 ├── Proteomics/
-│   ├── data/
 │   ├── scripts/
-│   └── results/
 |── README.md
 ```
 
 - **RNA_Sequencing/**: All files related to RNA sequencing analysis.
-  - `data/`: Raw and processed RNA-seq data.
+  - Data available upon request, raw Read files
   - `scripts/`: Code for preprocessing, quality control, and downstream RNA-seq analysis.
   
 - **Proteomics/**: All files related to proteomics analysis.
-  - `data/`: processed proteomics data.
+  - Data available upon request, processed proteomics data.
   - `scripts/`: Code for  quality control, and downstream proteomics analysis.
 
 ## Getting Started
