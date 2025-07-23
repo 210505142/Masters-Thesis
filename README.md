@@ -13,10 +13,10 @@ This repository contains scripts, notebooks, and documentation for performing se
 ```
 .
 ├── RNA_Sequencing/
-│   ├── scripts/
+│   ├── Pipeline Scripts/
 │   └── QC Results/
 ├── Proteomics/
-│   |__ scripts/
+│   |__ Scripts/
 |── README.md
 ```
 
