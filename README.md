@@ -2,7 +2,7 @@
 Accessibility for all the scripts used for generation of plots for both Proteomics and RNA seq
 ## Organisation
 - RNA seq file contains scripts for full pipeline of quantification of data as well as the visualisation of the data
-- Proteomics file contains Scripts for the visualisation of the data
+- Proteomics file contains scripts for the visualisation of the data
 # RNA Sequencing & Proteomics Analysis Repository
 
 Welcome to the **RNA Sequencing & Proteomics Analysis** repository!  
