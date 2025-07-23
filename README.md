@@ -15,7 +15,7 @@ This repository contains scripts, notebooks, and documentation for performing se
 ├── RNA_Sequencing/
 │   ├── scripts/
 │   └── QC Results/
-├──| Proteomics/
+├── Proteomics/
 │  |__ scripts/
 |── README.md
 ```
